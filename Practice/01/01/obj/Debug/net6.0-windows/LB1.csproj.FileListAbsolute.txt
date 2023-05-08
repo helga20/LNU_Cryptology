@@ -1,0 +1,76 @@
+D:\Навчання\LB1\bin\Debug\net6.0-windows\LB1.exe
+D:\Навчання\LB1\bin\Debug\net6.0-windows\LB1.deps.json
+D:\Навчання\LB1\bin\Debug\net6.0-windows\LB1.runtimeconfig.json
+D:\Навчання\LB1\bin\Debug\net6.0-windows\LB1.dll
+D:\Навчання\LB1\bin\Debug\net6.0-windows\LB1.pdb
+D:\Навчання\LB1\obj\Debug\net6.0-windows\LB1.csproj.AssemblyReference.cache
+D:\Навчання\LB1\obj\Debug\net6.0-windows\LB1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\LB1\obj\Debug\net6.0-windows\LB1.AssemblyInfoInputs.cache
+D:\Навчання\LB1\obj\Debug\net6.0-windows\LB1.AssemblyInfo.cs
+D:\Навчання\LB1\obj\Debug\net6.0-windows\LB1.csproj.CoreCompileInputs.cache
+D:\Навчання\LB1\obj\Debug\net6.0-windows\LB1.dll
+D:\Навчання\LB1\obj\Debug\net6.0-windows\refint\LB1.dll
+D:\Навчання\LB1\obj\Debug\net6.0-windows\LB1.pdb
+D:\Навчання\LB1\obj\Debug\net6.0-windows\LB1.genruntimeconfig.cache
+D:\Навчання\LB1\obj\Debug\net6.0-windows\ref\LB1.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1\bin\Debug\net6.0-windows\LB1.exe
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1\bin\Debug\net6.0-windows\LB1.deps.json
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1\bin\Debug\net6.0-windows\LB1.runtimeconfig.json
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1\bin\Debug\net6.0-windows\LB1.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1\bin\Debug\net6.0-windows\LB1.pdb
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1\obj\Debug\net6.0-windows\LB1.csproj.AssemblyReference.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1\obj\Debug\net6.0-windows\LB1.Form1.resources
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1\obj\Debug\net6.0-windows\LB1.csproj.GenerateResource.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1\obj\Debug\net6.0-windows\LB1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1\obj\Debug\net6.0-windows\LB1.AssemblyInfoInputs.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1\obj\Debug\net6.0-windows\LB1.AssemblyInfo.cs
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1\obj\Debug\net6.0-windows\LB1.csproj.CoreCompileInputs.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1\obj\Debug\net6.0-windows\LB1.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1\obj\Debug\net6.0-windows\refint\LB1.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1\obj\Debug\net6.0-windows\LB1.pdb
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1\obj\Debug\net6.0-windows\LB1.genruntimeconfig.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1\obj\Debug\net6.0-windows\ref\LB1.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1\obj\Debug\net6.0-windows\LB1.Properties.Resources.resources
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія (5)\bin\Debug\net6.0-windows\LB1.exe
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія (5)\bin\Debug\net6.0-windows\LB1.deps.json
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія (5)\bin\Debug\net6.0-windows\LB1.runtimeconfig.json
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія (5)\bin\Debug\net6.0-windows\LB1.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія (5)\bin\Debug\net6.0-windows\LB1.pdb
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія (5)\obj\Debug\net6.0-windows\LB1.csproj.AssemblyReference.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія (5)\obj\Debug\net6.0-windows\LB1.Form1.resources
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія (5)\obj\Debug\net6.0-windows\LB1.Properties.Resources.resources
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія (5)\obj\Debug\net6.0-windows\LB1.csproj.GenerateResource.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія (5)\obj\Debug\net6.0-windows\LB1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія (5)\obj\Debug\net6.0-windows\LB1.AssemblyInfoInputs.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія (5)\obj\Debug\net6.0-windows\LB1.AssemblyInfo.cs
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія (5)\obj\Debug\net6.0-windows\LB1.csproj.CoreCompileInputs.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія (5)\obj\Debug\net6.0-windows\LB1.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія (5)\obj\Debug\net6.0-windows\refint\LB1.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія (5)\obj\Debug\net6.0-windows\LB1.pdb
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія (5)\obj\Debug\net6.0-windows\LB1.genruntimeconfig.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія (5)\obj\Debug\net6.0-windows\ref\LB1.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія\bin\Debug\net6.0-windows\LB1.exe
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія\bin\Debug\net6.0-windows\LB1.deps.json
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія\bin\Debug\net6.0-windows\LB1.runtimeconfig.json
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія\bin\Debug\net6.0-windows\LB1.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія\bin\Debug\net6.0-windows\LB1.pdb
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія\obj\Debug\net6.0-windows\LB1.csproj.AssemblyReference.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія\obj\Debug\net6.0-windows\LB1.AboutDeveloperForm.resources
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія\obj\Debug\net6.0-windows\LB1.Form1.resources
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія\obj\Debug\net6.0-windows\LB1.Properties.Resources.resources
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія\obj\Debug\net6.0-windows\LB1.csproj.GenerateResource.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія\obj\Debug\net6.0-windows\LB1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія\obj\Debug\net6.0-windows\LB1.AssemblyInfoInputs.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія\obj\Debug\net6.0-windows\LB1.AssemblyInfo.cs
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія\obj\Debug\net6.0-windows\LB1.csproj.CoreCompileInputs.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія\obj\Debug\net6.0-windows\LB1.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія\obj\Debug\net6.0-windows\refint\LB1.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія\obj\Debug\net6.0-windows\LB1.pdb
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія\obj\Debug\net6.0-windows\LB1.genruntimeconfig.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія\obj\Debug\net6.0-windows\ref\LB1.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1\obj\Debug\net6.0-windows\LB1.ImageEncryption.resources
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1\obj\Debug\net6.0-windows\LB1.csproj.CopyComplete
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія (5)\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія (5)\obj\Debug\net6.0-windows\LB1.ImageEncryption.resources
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\01\LB1 – копія (5)\obj\Debug\net6.0-windows\LB1.csproj.CopyComplete
