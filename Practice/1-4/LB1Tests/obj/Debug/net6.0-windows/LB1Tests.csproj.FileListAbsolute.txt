@@ -1,0 +1,416 @@
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\CoverletSourceRootsMapping
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\testhost.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\LB1.deps.json
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\LB1.runtimeconfig.json
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\LB1.exe
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\testhost.exe
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\LB1Tests.deps.json
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\LB1Tests.runtimeconfig.json
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\LB1Tests.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\LB1Tests.pdb
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\LB1.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\bin\Debug\net6.0-windows\LB1.pdb
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.csproj.AssemblyReference.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.AssemblyInfoInputs.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.AssemblyInfo.cs
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.csproj.CoreCompileInputs.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.csproj.CopyComplete
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\obj\Debug\net6.0-windows\refint\LB1Tests.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.pdb
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.genruntimeconfig.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\Нова папка\LB1Tests\obj\Debug\net6.0-windows\ref\LB1Tests.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\CoverletSourceRootsMapping
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\testhost.exe
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\testhost.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\LB1.deps.json
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\LB1.runtimeconfig.json
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\LB1.exe
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\LB1Tests.deps.json
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\LB1Tests.runtimeconfig.json
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\LB1Tests.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\LB1Tests.pdb
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\LB1.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\bin\Debug\net6.0-windows\LB1.pdb
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.csproj.AssemblyReference.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.AssemblyInfoInputs.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.AssemblyInfo.cs
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.csproj.CoreCompileInputs.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.csproj.CopyComplete
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\obj\Debug\net6.0-windows\refint\LB1Tests.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.pdb
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.genruntimeconfig.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\02\2\LB1Tests\obj\Debug\net6.0-windows\ref\LB1Tests.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\CoverletSourceRootsMapping
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\testhost.exe
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\testhost.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\LB1.deps.json
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\LB1.runtimeconfig.json
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\LB1.exe
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\LB1Tests.deps.json
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\LB1Tests.runtimeconfig.json
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\LB1Tests.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\LB1Tests.pdb
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\LB1.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\bin\Debug\net6.0-windows\LB1.pdb
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.csproj.AssemblyReference.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.AssemblyInfoInputs.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.AssemblyInfo.cs
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.csproj.CoreCompileInputs.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.csproj.CopyComplete
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\obj\Debug\net6.0-windows\refint\LB1Tests.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.pdb
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.genruntimeconfig.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\03\3\LB1Tests\obj\Debug\net6.0-windows\ref\LB1Tests.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\CoverletSourceRootsMapping
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\testhost.exe
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\testhost.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\LB1.deps.json
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\LB1.runtimeconfig.json
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\LB1.exe
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\LB1Tests.deps.json
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\LB1Tests.runtimeconfig.json
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\LB1Tests.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\LB1Tests.pdb
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\LB1.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\bin\Debug\net6.0-windows\LB1.pdb
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.csproj.AssemblyReference.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.AssemblyInfoInputs.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.AssemblyInfo.cs
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.csproj.CoreCompileInputs.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.csproj.CopyComplete
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\obj\Debug\net6.0-windows\refint\LB1Tests.dll
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.pdb
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\obj\Debug\net6.0-windows\LB1Tests.genruntimeconfig.cache
+D:\Навчання\6 семестр\ДВ Математичні основи криптології\Практичні\04\04\LB1Tests\obj\Debug\net6.0-windows\ref\LB1Tests.dll
